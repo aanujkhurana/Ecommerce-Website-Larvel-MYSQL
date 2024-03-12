@@ -1,3 +1,10 @@
+
+[![Larvel](https://img.shields.io/badge/LARVEL-17.0.2-blue.svg)](https://reactjs.org/)
+[![PHP](https://img.shields.io/badge/PHP-4.1.1-purple.svg)](https://redux.js.org/)
+[![Bootstrap CSS](https://img.shields.io/badge/Bootstrap%20CSS-2.2.19-blueviolet.svg)](https://tailwindcss.com/)
+[![MYSQL](https://img.shields.io/badge/MYSQL%20API-Enabled-orange)](https://rapidapi.com)
+
+
 # E-Commerce Website - Laravel Project
 
 This project is a basic CRUD application for an e-commerce website built using the Laravel framework.
